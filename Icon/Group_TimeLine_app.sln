@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group_TimeLine_app", "Group_TimeLine_app.csproj", "{36DD6703-C713-4509-A670-860EDFCA24D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DD6703-C713-4509-A670-860EDFCA24D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DD6703-C713-4509-A670-860EDFCA24D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DD6703-C713-4509-A670-860EDFCA24D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DD6703-C713-4509-A670-860EDFCA24D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70AF55DB-E298-4224-B752-9278DAF0152A}
+	EndGlobalSection
+EndGlobal
